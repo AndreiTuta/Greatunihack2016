@@ -1,0 +1,231 @@
+A579 Bradford Street, Jct Castle Street, Bolton
+A579 Derby Street, Jct University Way, Bolton
+A579 Trinity Street, Jct Manchester Road, Bolton
+A6027 De Havilland Way, Jct Mansell Way, Horwich, Bolton
+A673 Chorley New Road, Jct Tudor Avenue, Bolton
+A579 Newbrook Road, North of Firs Road, Bolton
+A579 Newbrook Road, South of Firs Road, Bolton
+A58 Bury Road, West of Torridon Road, Bolton
+A58 Crompton Way, East of Seymour Road, Bolton
+A6 Chorley Road, South East of Wimberry Hill Road, Bolton
+A6 Manchester Road, South East of Blackrod Bypass Road, Bolton
+A6 Manchester Road, South East of Blackrod Bypass Road, Bolton
+A666 Blackburn Road, North West of Longworth Road, Bolton
+A666 Manchester Road, Teak Drive, Bolton
+A666 St Peters Way,  Manchester Road, Bolton
+A666 St Peters Way, All Saints School, Bolton
+A666 St Peters Way, Burnden Road, Bolton
+A666 St Peters Way, opp Rowena Street, Bolton
+A673 Chorley New Road, East of Somerset Road, Bolton
+A673 Chorley New Road, jct of Lindsay Street, Bolton
+A676 Wigan Road, Hythe Street, Bolton
+A56 Bury New Road, Jct Fairfax Road, Prestwich
+A56 Bury New Road, Jct Hilton Lane, Prestwich
+A56 Bury New Road, Jct Moss Lane, Whitefield
+A56 Manchester Road, Jct Parkhills Road, Bury
+A58 Angouleme Way, Jct Knowsley Street, Bury
+A58 Bury & Bolton Road, Starling Road, Bury
+A58 Rochdale Road, Jct Heywood Street, Bury
+A56 Peel Way, East ofBolton Street, Bury
+A56 Peel Way, West of jct of Walmersley Road, Bury
+A58 Bolton Road, Powell Street, Bury
+A665 Bolton Road, Jct Monton Street, Radcliffe
+A6104 Victoria Ave EB fm Beadham Dr to Plant Hill Rd Mcr
+A6104 Victoria Ave WBfm Plant Hill Rd to Beadham Dr Mcr
+A34 Kingsway, Jct Parrs Wood Lane, Manchester
+A34 Kingsway, Parrs Wood Lane, Manchester
+A34 Oxford Road, Jct Charles Street, Manchester
+A34 Oxford Road, Jct Hulme Street, Manchester
+A34 Oxford St, Jct Whitworth Street, Manchester
+A34 Princess Street, Jct Whitworth Street, Manchester
+A5103 Princess Road Merseybank Avenue, Manchester
+A5103 Princess Road, Jct Wilbraham Road, Manchester
+A56 Great Ducie Street, Jct Trinity Way, Manchester
+A6010 Queens Road, Jct Cheetham Hill Road, Manchester
+A6010 Wilbraham Road, Jct Withington Road, Manchester
+A6104 Victoria Avenue, Jct Rochdale Road, Manchester
+A635 Ashton Old Road, Jct Widnes Street, Manchester
+A664 Rochdale Road, Jct Queens Road, Manchester
+B5093 Mosley Road, Jct Wilmslow Road, Manchester
+Dale Street, Jct Newton Street, Manchester
+A34 Kingsway, Northbank Gardens, Manchester
+A34 Upper Brook Street, Blackstock St, Manchester
+A5103 Princess Rd, Craigmore Avenue, Manchester
+A5103 Princess Road, Nell Lane, Manchester
+A5103 Princess Road, North of Craigmore Avenue, Manchester
+A5103 Princess Road, North of Mauldeth Road West, Manchester
+A5145 Edge Lane, Alderfield Road, Manchester
+A5145 Edge Lane, Ryebank Road, Manchester
+A57 Hyde Road, Devonshire Street, Manchester
+A576 Middleton Road, North of Brooklands Road, Manchester
+A6 Stockport Road, Longden Road, Manchester
+A6 Stockport Road, Longden Road, Manchester
+A6010 Wilmslow Road, opposite jct Brighton Grove, Manchester
+A6104 Victoria Avenue East, East of Colmore Drive, Manchester
+A62 Oldham Road, Northeast of Beckford Street, Manchester
+A663 Broadway, Annersley Road, Manchester
+A663 Broadway, Barlea Avenue, Manchester
+A664 Rochdale Road, Kerr Street, Manchester
+A664 Rochdale Road, Queens Park (inbound), Manchester
+A665 Cheetham Hill Road, North of Knowsley Street, Manchester
+Alexandra Road, Adscombe Street, Manchester
+B5166 Sale Road, Brenchley Drive, Manchester
+B5166 Sale Road, Daine Avenue, Manchester
+B5167 Palatine Road, Chretien Road, Manchester
+Errwood Road, Westdean Crescent, Manchester
+Errwood Road, Watford Road, Manchester
+Fernclough Road, Hemmington Drive, Manchester
+St Mary's Road, Joyce Street, Manchester
+St Mary's Road, Merridale Road, Manchester
+A5103 Princess Road, Mauldeth Road, Manchester
+A6010 Alan Turing Way, Jct Ashton New Road, Manchester
+A6010 Pottery Lane, Jct Hyde Road, Manchester
+A6048 Featherstall Road North, Jct Middleton Road, Oldham
+A62 Bottom O'th Moor, Jct Shaw Road, Oldham
+A627 Ashton Road, Jct Chamber Road, Oldham
+A663 Broadway, Jct Middleton Road, Chadderton
+A671 Rochdale Road, Jct High Barn Street, Oldham
+A6048 Featherstall Road North, Westhulme Street, Chadderton, Oldham
+A62 Huddersfield Road, East of Brideoak Road, Oldham
+A62 Manchester Road, North of Drury Lane, Oldham
+A62 Oldham Road, Derby Street, Failsworth
+A62 Oldham Road, Queen Street, Failsworth
+A62 Oldham Road, North of Brown Street, Oldham
+A627 Ashton Road, South of Coal Pit Lane, Oldham
+A663 Broadway, Eustace Street, Oldham
+A663 Broadway, Fold Green, Chadderton
+A663 Milnrow Road, Dunwood Park Court, Oldham
+A663, Broadway, Netherhey Lane, Oldham
+A663, Broadway, Park View, Oldham
+A669 Middleton Road, West of Packwood Chase, Chadderton
+A669 Oldham Road,Mildred Avenue, Oldham
+A672 Ripponden Road, North of Radcliffe Road, Oldham
+A672 Ripponden Road, North of Turf Pit Lane, Oldham
+B6194 Abbeyhills Road, Alt Lane, Oldham
+B6194 Higginshaw Lane, North of Milne Street, Oldham
+B6194 Shaw Road, North of Sidney Street, Oldham
+B6195 Middleton Road, Stottfield, Oldham
+High Street, Burton Street
+Lees Road, Wellyhole Street, Oldham
+A664 Albert Royds Street, Jct Milnrow Road, Rochdale
+A664 Rochdale Road, Jct Stanycliffe Lane, Middleton
+A669 Oldham Road, Jct Townley Street, Middleton
+A58 Bolton Road, Manley Road, Rochdale
+A58 Bury New Road, Heywood, Rochdale
+A664 Albert Royds Street, North of Reservoir Street, Northbound, Rochdale
+A664 Albert Royds Street, North of Reservoir Street, Southbound, Rochdale
+A664 Rochdale Road, Hill Bank Street, Rochdale
+A5063 Albion Way, Jct Liverpool Street, Salford
+A5063 Trafford Road, Regent Road Roundabout, Salford
+A57 Liverpool Road, Jct to Peel Green Road, Salford
+A580 East Lancs Road, app to Mosley Common Road, Salford
+A580 East Lancs Road, app to Walkden Road, Salford
+A580 East Lancs Road, app to Walkden Road, Salford
+A5185 Lancaster Road, North Radcliffe Park Road, Salford
+A56 Bury New Road, North of New Hall Road, Salford
+A57 Liverpool Rd, Argosy Drive, Salford
+A575 Bolton Road, North of Thorpe Street, Walkden, Salford
+A576 Eccles Old Road, Weaste Lane, Salford
+A580 East Lancs Road outside Moorside High School, Swinton
+A580 East Lancs Road outside Moorside High School, Swinton
+A6 Broad Street, at Slip Road to Charles Street, Salford
+A580 East Lancs Road app to Mosley Common Road, Salford
+A580 East Lancs Road, app to Moorside Road, Swinton
+A580 East Lancs Road, app to Worsley Road, Swinton
+A34 Kingsway, Jct Gatley Road, Stockport
+A34 Kingsway, Jct Gatley Road, Stockport
+A523 Macclesfield Road, Jct Dean Lane, Hazel Grove, Stockport
+A523 Macclesfield Road, Jct Mill Lane, Hazel Grove, Stockport
+A560 Hyde Road, Jct George Lane, Stockport
+A6 Buxton Road, Jct Kennerley Road, Stockport
+A6 Buxton Road, Jct Macclesfield Road, Hazel Grove, Stockport
+A626 St Marys Way, Jct Hall Street, Stockport
+Higher Hillgate, Jct Longshut Lane, Stockport
+A34 Kingsway,  Etchells Road Underbridge, Northbound, Cheadle Hulme, Stockport
+A34 Kingsway,  Etchells Road Underbridge, Southbound, Cheadle Hulme, Stockport
+A34 Kingsway, South of Lynton Road , Stockport
+A34 Kingsway, Stanley Road, Cheadle, Stockport
+A523 Macclesfield Road Northbound, Chatsworth Road, Hazel Grove, Stockport
+A523 Macclesfield Road Soutbound, Chatsworth Road, Hazel Grove, Stockport
+A560 Brinksway, Northgate Road, Stockport
+A560 Hyde Road, Wyecroft Close, Stockport
+A560 Stockport Road, Elm Road South, Stockport
+A560 Stockport Road, Parkway, Stockport
+A6 Buxton Road Alma Road, Stockport
+A6 Buxton Road, Alderdale Drive, Stockport
+A6 Buxton Road, Mile End Lane, Stockport
+A6 Buxton Road, Southwood Road, Stockport
+A6 Buxton Road, Woodsmoor Lane, Stockport
+A6 Wellington Road North, Glenfield Road, Northbound, Stockport
+A6 Wellington Road North, Glenfield Road, Southbound, Stockport
+B6104 Stockport Road West, The Drive, Stockport
+B6197 Reddish Road, Coniston Road, Stockport
+Brinnington Rise, St Paul's School, Stockport
+A6 Wellington Road North, Jct Heaton Lane, Stockport
+A6017 Denton Road, Jct Stamford Road, Tameside
+A627 Clark Way, M67 slip Road, Hyde
+A627 King Street, Jct Astley Street, Dukinfield
+A627 Oldham Road, Jct Wilshaw Lane, Ashton-Under-Lyne
+A635 Manchester Road, Jct Ashton Hill Lane, Tameside
+A635 Manchester Road, Jct Ashton Hill Lane, Tameside
+Ashton Road, Jct Bennet Street, Hyde
+Ashton Road, Jct Talbot Road, Hyde
+A6017 Stockport Road, Wynne Grove, Tameside
+A6018 Mottram Road, South East of Taylor Street, Stalybridge
+A627 Dukinfield Road, South of Dunkirk Lane, Hyde
+A627 King Street, South of Pickford Lane, Dukinfield
+A627 Oldham Road, Tree House Avenue, Tameside
+A635 Manchester Road Eastbound, Lord Sheldon Way, Tameside
+A635 Manchester Road Westbound, Moss Way, Tameside
+A635 Wakefield Road, north of Souracre Fold, Tameside
+B6175 High Street, East of James Street, Stalybridge
+B6175 High Street, Hobhill, Stalybridge
+B6175 Huddersfield Road St Pauls School, Stalybridge
+B6175 Huddersfield Road, Crowswood Drive, Tameside
+B6458 Stockport Road, Kensington Gardens, Hyde
+A5145 Edge Lane, Jct Chester Road, Stretford
+A5181 Barton Road, Jct Kingsway, Stretford
+A56 Cross St, Jct Dane Road, Sale
+A56 Manchester Road, Woodcote Road, Trafford
+A56 Washway Road, Jct Sibson Road, Sale
+A560 Shaftsbury Avenue, Jct Thorley Lane, Trafford
+B5217 Seymour Grove, Jct Kings Road, Stretford
+Chester Road, White City Way
+Derbyshire Lane, Jct A5181 Park Road, Stretford
+Junction of Chester Road, Kingsway
+A5067 Talbot Road, jct Warwick Road, Trafford
+A538 Hale Road, High Elm Road, Hale Barns
+A56 Chester Road, Cavendish Road, Stretford
+A56 Chester Road, Cavendish Road, Stretford
+A56 Cross Street, Elm Grove, Sale
+A56 Dunham Road, Bow Green Road, Altrincham
+A56 Dunham Road, St Margarets Road, Altrincham
+A56 Washway Road, South of Oakfield, Sale
+A56 Washway Road, South of Selsey Street, Sale
+A6144 Carrington Lane, jct of Isherwood Road, Carrington
+A6144 Manchester Road, the Addison Road junction, Carrington
+A6144 Marsland Road, Lyme Grove, Sale
+Barton Road, opp Edale Road, Stretford
+Manor Avenue, Plymouth Road, Sale
+A49 Chapel Lane, Jct Queen Street, Wigan
+A49 Riverway, Jct Darlington Street, Wigan
+A49 Riverway, Jct Rodney Street, Wigan
+A579 Atherleigh Way, Jct Kirkhall Lane, Leigh
+A579 Bolton Road, junction High Street, Atherton
+A580 East Lancs Road, Jct Atherleigh Way, Wigan
+Junction of Atherleigh Way, St.Helens Road
+A49 Wallgate, West of Haig Street, Wigan
+A49 Warrington Road, Stephens Way, Wigan
+A49 Wigan Road,Landgate Ind Est, Wigan
+A49 Wigan Road, North West of Nicol Road, Ashton in Makerfield, Wigan
+A572 Manchester Road, East of Marsland Green Lane, Astley
+A572 St Helens Road, North East of New Barn Lane, Leigh
+A577 Atherton Road, Hawthorn Avenue, Wigan
+A577 Orrell Road, Heyes Road, Orrell, Wigan
+A58 Bolton Road, Riding Lane, Wigan
+A58 Liverpool Road, South of Longton Street, Wigan
+B5206 Shevington Lane, Shevington High School, Wigan
+B5207 Bryn Road, Industrial Estate, Ashton In Makerfield, Wigan
+B5328 Whelley, North of St Stephen's Avenue, Wigan
+Spencer Road West, East of Gidlow Lane, Wigan
+Spring Road, North of motorway bridge, opps Latham Lane, Wigan
