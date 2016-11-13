@@ -104,23 +104,33 @@
   <div id="map"></div> <div id="right-panel">
     <div>
         <b><font color="white">START:</font></b>
-        <select id="start">
-          <option value="53.4749, -2.2412">Manchester City Center, UK</option>
-          </select>
+        <input id="start">
+          <option value="53.4749, -2.2412"></option>
+
           <br>
-        <b><font color="white">WAYPOINTS:</font></b>
+        <!--<b><font color="white">WAYPOINTS:</font></b>-->
         <br>
-        <select multiple id="waypoints">
+<!--
+        <form id = "waypoints">
+        <input type="checkbox" value="53.4747, -2.2412" checked> 1<br>
+        <input type="checkbox" value="53.4722, -2.2403" checked> 2<br>
+
+        </form>
+
+-->
+        <select multiple id="waypoints" style="display:none;">
           <option value="53.4747, -2.2412">Waypoint</option>
-          <option value="53.4722, -2.2403">Waypoint</option>
-          <option value="53.4693, -2.2408">Waypoint</option>
-          <option value="53.4672, -2.2390">Waypoint</option>
-          <option value="53.4671, -2.2344">Waypoint</option>
-          <option value="53.4636 , -2.2310">Waypoint</option>
+          <option value="53.4722, -2.2403">Waypoint1</option>
+          <option value="53.4693, -2.2408">Waypoint2</option>
+          <option value="53.4672, -2.2390">Waypoint3</option>
+          <option value="53.4671, -2.2344">Waypoint4</option>
+          <option value="53.4599 , -2.2310">Waypoint5</option>
         </select>
           <br>
-        <b>End:</b>
+        <b><font color = "white">END: <br></font></b>
         <input id="end">
+
+          <!-- <option selected disabled>Choose here</option> -->
            <option value="53.4584,-2.2270"></option>
          </input> <br>
          <input type="submit" id="submit">
@@ -145,7 +155,7 @@
         var waypts = [];
         var checkboxArray = document.getElementById('waypoints');
         for (var i = 0; i < checkboxArray.length; i++) {
-          if (checkboxArray.options[i].selected) {
+          if (checkboxArray.options[i]) {
             waypts.push({
               location: checkboxArray[i].value,
               stopover: true
@@ -162,7 +172,7 @@
           destination: document.getElementById('end').value,
           waypoints: waypts,
           optimizeWaypoints: true,
-          travelMode: 'DRIVING'
+          travelMode: 'WALKING'
         }, function(response, status) {
           if (status === 'OK') {
             directionsDisplay.setDirections(response);
