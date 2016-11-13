@@ -1,4 +1,4 @@
-from flask import Flask, request
+from flask import *
 from twilio import twiml
 
 
@@ -11,6 +11,10 @@ def sms():
     resp = twiml.Response()
     resp.message('Hello {}, you said: {}'.format(number, message_body))
     return str(resp)
+
+@app.route('/')
+def hello(name=None):
+    return render_template('index.html', name=name)
 
 if __name__ == '__main__':
     app.run()
